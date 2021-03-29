@@ -1,0 +1,8 @@
+[submodule "Public"]
+	path = Public
+	url = https://github.com/jeffam70/PublicSubmodule
+	branch = master
+[submodule "Private"]
+	path = Private
+	url = https://github.com/jeffam70/PrivateSubmodule
+	branch = master
